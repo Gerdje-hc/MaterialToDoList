@@ -11,7 +11,7 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
-public class ToDoListActivity extends AppCompatActivity {
+public class  ToDoListActivity extends AppCompatActivity {
     private EditText item;
     private ImageButton add;
     private ListView dynamicListView;
